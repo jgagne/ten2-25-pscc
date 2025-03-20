@@ -85,13 +85,22 @@ Begin by doing some research. Find examples broadsheets that match your personal
 
 (Mid-Semester)
 
-- Responsive Design
-    - [What is Responsive Design](https://www.youtube.com/watch?v=4twHFfU44uE)
-        - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
-- Font Licensing
-    - [Adobe
+### Responsive Design
+
+- [What is Responsive Design](https://www.youtube.com/watch?v=4twHFfU44uE)
+- [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+
+### Font Licensing
+
+> **Does my client need their own font license to use the artwork I created using the fonts?**
+>
+> No, not if you are creating graphics or documents that have rasterized or properly embedded font data, such as a PDF, JPEG, or PNG.
+>
+> However, if your client needs to have the font installed to edit your design, they will need their own license, either through a Creative Cloud subscription or a desktop license purchase.
+
+- [Adobe
 Font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html)
-    - [Why do I need a font license?](https://www.monotype.com/font-licensing-explained-designers-and-brands)
+- [Why do I need a font license?](https://www.monotype.com/font-licensing-explained-designers-and-brands)
 
 ### Homework
 
