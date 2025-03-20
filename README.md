@@ -4,6 +4,19 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 
 ## Schedule
 
+- [Week 1](#week-1): February 13
+- [Week 2](#week-2): February 20
+- [Week 3](#week-3): February 27
+- [Week 4](#week-4): March 6
+- [Week 5](#week-5): March 12 — **Class Cancellation**
+- [Week 6](#week-6): March 20 (Mid Semester)
+- Week 7: March 27
+- Week 8: April 3
+- Week 9: April 10
+- Week 10: April 17
+- Week 11: April 24
+- Week 12: May 1
+
 ## Week 1
 
 - Introductions
@@ -75,14 +88,14 @@ Begin by doing some research. Find examples broadsheets that match your personal
         - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
     - [CSS Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Multiple-column_Layout)
     - [Revisiting CSS Multi-Column Layout ](https://css-tricks.com/revisiting-css-multi-column-layout/)
+- Font Licensing
+    - [Why do I need a font license?](https://www.monotype.com/font-licensing-explained-designers-and-brands)
+
+### Homework
+
 - Responsive Typography
     - [More Perfect Typography](https://vimeo.com/17079380)
-- Web Typography Basics
-    - [CSS text styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling)
-    - [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight)
-    - [Using web fonts](https://fonts.google.com/knowledge/using_type/using_web_fonts)
-    - [CSS API update](https://developers.google.com/fonts/docs/css2)
-- [Design & Code Better Web Typography](https://betterwebtype.com) — A free web typography course for designers and web developers by Matej Latin.
+        - Please watch this lecture.
 
 ### Springtime
 
@@ -96,6 +109,15 @@ Maybe something more positive, like the change in weather, flowers in bloom, spr
 - Use original content and artwork.
 - Consider how your typography and layout will flow and adapt to different sizes such as an A4 (`210 mm` x `297 mm`)  or your phone’s viewport (unknown).
 - Work in black and white to start, then add springtime color(s) as an enhancement.
+
+## Week 7
+
+- Web Typography Basics
+    - [CSS text styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling)
+    - [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight)
+    - [Using web fonts](https://fonts.google.com/knowledge/using_type/using_web_fonts)
+    - [CSS API update](https://developers.google.com/fonts/docs/css2)
+- [Design & Code Better Web Typography](https://betterwebtype.com) — A free web typography course for designers and web developers by Matej Latin.
 
 ## Tools
 
