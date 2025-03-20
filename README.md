@@ -164,4 +164,4 @@ Color and contrast recourses.
 ## Books
 
 - [Butterick’s Practical Typography](https://practicaltypography.com)
-- [Thinking with Type](https://web.archive.org/web/20220719235309/http://thinkingwithtype.com) (archived):
+- [Thinking with Type](https://web.archive.org/web/20220719235309/http://thinkingwithtype.com) (archived)
