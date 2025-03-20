@@ -86,10 +86,8 @@ Begin by doing some research. Find examples broadsheets that match your personal
 - Responsive Design
     - [What is Responsive Design](https://www.youtube.com/watch?v=4twHFfU44uE)
         - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
-    - [CSS Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Multiple-column_Layout)
-    - [Revisiting CSS Multi-Column Layout ](https://css-tricks.com/revisiting-css-multi-column-layout/)
 - Font Licensing
-    - [Adobe 
+    - [Adobe
 Font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html)
     - [Why do I need a font license?](https://www.monotype.com/font-licensing-explained-designers-and-brands)
 
@@ -114,6 +112,9 @@ Maybe something more positive, like the change in weather, flowers in bloom, spr
 
 ## Week 7
 
+- Responsive Design
+    - [CSS Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Multiple-column_Layout)
+    - [Revisiting CSS Multi-Column Layout ](https://css-tricks.com/revisiting-css-multi-column-layout/)
 - Web Typography Basics
     - [CSS text styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling)
     - [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight)
