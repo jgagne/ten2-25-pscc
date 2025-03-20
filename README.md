@@ -73,6 +73,24 @@ Begin by doing some research. Find examples broadsheets that match your personal
     - [InDesign: How to Get Better Justified Type](https://www.youtube.com/watch?v=hJoACD9qUeI) (video)
     - [HOW TO: Perfectly justify type in InDesign](https://pangrampangram.com/blogs/journal/perfectly-justify-type-indesign)
     - [Typography and dyslexia: Fixing justified text in InDesign](https://accessible-digital-documents.com/blog/dyslexia-justified-text-indesign/)
+
+### Justification
+
+| Setting                   | Minimum                     | Desired                     | Maximum                     | Notes |
+|---------------------------|-----------------------------|-----------------------------|-----------------------------|-------|
+| **Word Spacing**           | 80%                         | 100%                        | 120%                        | Adjusts word spacing to ensure a visually consistent flow. |
+| **Letter Spacing**         | 90%                         | 100%                        | 110%                        | Fine-tunes the spacing between letters to prevent stretching or squishing. |
+| **Glyph Scaling**          | 98%                         | 100%                        | 102%                        | Slight adjustments to character width help prevent awkward gaps or overcrowding in justified text. |
+| **Composer**               | -                           | Adobe Paragraph Composer    | -                           | The Paragraph Composer generally provides more balanced and natural spacing compared to the Single-line Composer. |
+| **Left/Right Justification**| -                           | Align Text to Justify       | -                           | Ensures that the text aligns evenly to both the left and right margins. |
+| **Hyphenation**            | -                           | Enabled (with minor tweaks) | -                           | Allow hyphenation, but adjust to ensure it's not too aggressive (e.g., set **Words with 7 or fewer letters** to 0). |
+| **Hyphenation Zone**       | -                           | 3–5 mm                      | -                           | Adjusts the space allowed before a word can be hyphenated. |
+| **No Break**               | -                           | Applied selectively         | -                           | Common for certain terms or proper nouns (e.g., “New York” or “CEO”). |
+| **Justification Style**    | -                           | Adobe Paragraph Composer    | -                           | Ensures balanced spacing and avoids excessive word spacing or unsightly rivers of white space. |
+
+
+
+
 - [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
 - [Atkinson Hyperlegible Next Expands on Low Vision Accessibility](https://www.printmag.com/type-tuesday/atkinson-hyperlegible-next-applied-design/)
 - [The European Accessibility Act 2025: An internet for all](https://www.wholegraindigital.com/blog/the-european-accessibility-act-2025/)
