@@ -1,0 +1,131 @@
+# Typography 2
+
+Instructor, designer: [Justin Gagne](https://justingagne.design)
+
+## Schedule
+
+## Week 1
+
+- Introductions
+- Student work discussion
+- Workshop
+    - [The History of Typography](https://vimeo.com/65353988) by Ben Barrett-Forrest
+    - Hello, My Name Is…
+- Homework
+    - Hello, My Name Is…
+
+## Week 2
+
+- Printing History
+    - [Farewell, Etaoin Shrdlu](https://www.nytimes.com/video/insider/100000004687429/farewell-etaoin-shrdlu.html)
+        - [with subtitles/closed captions](https://www.youtube.com/watch?v=1MGjFKs9bnU)
+    - [
+    A Fascinating Film About the Last Day of Hot Metal Typesetting at the New York Times](https://www.thisiscolossal.com/2016/09/a-fascinating-film-about-the-last-day-of-hot-metal-typesetting-at-the-new-york-times/)
+    - [Etaoin shrdlu](https://en.wikipedia.org/wiki/Etaoin_shrdlu)
+    - [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
+- Broadsheet
+    - [Traditional broadsheet](https://www.newspaperclub.com/choose/broadsheet/traditional)
+    - [Broadsheet](https://en.wikipedia.org/wiki/Broadsheet)
+    - [Can design save newspapers?](https://www.ted.com/talks/jacek_utko_can_design_save_newspapers)
+    - [SND 42 Awards: Weekendavisen and de Volkskrant named World’s Best Designed Newspapers for 2020](https://www.typeroom.eu/snd-42-awards-weekendavisen-and-de-volkskrant-named-worlds-best-designednewspapers-for-2020)
+- Readability
+    - [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
+- Font Pairing
+    - [Monotype: Font Pairing Generator](https://www.monotype.com/font-pairing)
+
+### My Name Is… Broadsheet
+
+In this project, designers express and represent their personal identity through a broadsheet newspaper format (`380mm` x `578mm`), choosing a section from a traditional broadsheet such as Finances, Food, Arts, or Travel.
+
+The goal is to create a personal identity piece using typography to reflect who you are, what you value, and what you love. This builds on the emotional connection with hand-drawn type explored in the previous week. The project will also delve into the history and evolution of printing, drawing influences from hot metal typesetting and traditional broadsheet design, while focusing on typography’s emotional resonance and visual storytelling.
+
+Consider integrating original artwork — such as photographs or illustrations — alongside your written content. All text should be original or carefully sourced from meaningful references. This project should tell a story about you through your selected section, content, and typography. Begin with black and white as your foundation, and later introduce color as an enhancement in an alternative version.
+
+Begin by doing some research. Find examples broadsheets that match your personality. Any research is better than no research. Sketch your layouts on paper first. Feel free to use colored paper to represent content types.
+
+## Week 3
+
+### Reading
+
+- [The hardest working font in Manhattan ](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+
+
+### Identify Fonts
+
+- [Font Matcherator](https://www.fontspring.com/matcherator)
+
+## Week 4
+
+- H&Js — Hyphenation and Justification settings
+    - [InDesign: How to Get Better Justified Type](https://www.youtube.com/watch?v=hJoACD9qUeI) (video)
+    - [HOW TO: Perfectly justify type in InDesign](https://pangrampangram.com/blogs/journal/perfectly-justify-type-indesign)
+    - [Typography and dyslexia: Fixing justified text in InDesign](https://accessible-digital-documents.com/blog/dyslexia-justified-text-indesign/)
+- [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
+- [Atkinson Hyperlegible Next Expands on Low Vision Accessibility](https://www.printmag.com/type-tuesday/atkinson-hyperlegible-next-applied-design/)
+- [The European Accessibility Act 2025: An internet for all](https://www.wholegraindigital.com/blog/the-european-accessibility-act-2025/)
+
+## Week 5
+
+- No class
+
+## Week 6 (Mid-Semester)
+
+- Responsive Design
+    - [What is Responsive Design](https://www.youtube.com/watch?v=4twHFfU44uE)
+        - [Responsive Web Design](https://alistapart.com/article/responsive-web-design/)
+    - [CSS Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Multiple-column_Layout)
+    - [Revisiting CSS Multi-Column Layout ](https://css-tricks.com/revisiting-css-multi-column-layout/)
+- Responsive Typography
+    - [More Perfect Typography](https://vimeo.com/17079380)
+- Web Typography Basics
+    - [CSS text styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling)
+    - [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight)
+    - [Using web fonts](https://fonts.google.com/knowledge/using_type/using_web_fonts)
+    - [CSS API update](https://developers.google.com/fonts/docs/css2)
+- [Design & Code Better Web Typography](https://betterwebtype.com) — A free web typography course for designers and web developers by Matej Latin.
+
+### Springtime
+
+Design a poster or poster series (B1: `707 mm` x `1000 mm`) on the theme of spring or springtime.
+
+What does springtime mean to you? Does it represent a holiday, such as Easter or Labor Day (Fête du Travail, Fiesta del Trabajo, etc.), or something else?
+
+Maybe something more positive, like the change in weather, flowers in bloom, spring showers (rain), music festivals, etc.?
+
+- Choose [fonts via Google](https://fonts.google.com).
+- Use original content and artwork.
+- Consider how your typography and layout will flow and adapt to different sizes such as an A4 (`210 mm` x `297 mm`)  or your phone’s viewport (unknown).
+- Work in black and white to start, then add springtime color(s) as an enhancement.
+
+## Tools
+
+### Text Editors
+
+- [Zed](https://zed.dev/)
+
+### Type Scale
+
+- [Type Scale](https://typescale.com)
+
+### Color Accessibility
+
+Check color contrast and accessibility.
+
+- [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) (web-based)
+- [Accessible Brand Colors](https://abc.useallfive.com) (web-based)
+- [Colorable](https://colorable.jxnblk.com) (web-based)
+- [Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/)
+- [Contraste](https://contrasteapp.com)
+- [Pika](https://superhighfives.com/pika)
+- [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) (color blindness simulator)
+
+Color and contrast recourses.
+
+- [An interactive guide to color & contrast](https://colorandcontrast.com)
+- [Happy Hues](https://www.happyhues.co)
+- [Werner’s Nomenclature of Colours](https://www.c82.net/werner/)
+
+## Books
+
+- [Butterick’s Practical Typography](https://practicaltypography.com)
+- [Thinking with Type](https://web.archive.org/web/20220719235309/http://thinkingwithtype.com) (archived):
