@@ -81,7 +81,9 @@ Begin by doing some research. Find examples broadsheets that match your personal
 
 - No class
 
-## Week 6 (Mid-Semester)
+## Week 6
+
+(Mid-Semester)
 
 - Responsive Design
     - [What is Responsive Design](https://www.youtube.com/watch?v=4twHFfU44uE)
