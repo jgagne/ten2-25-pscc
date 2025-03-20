@@ -74,7 +74,7 @@ Begin by doing some research. Find examples broadsheets that match your personal
     - [HOW TO: Perfectly justify type in InDesign](https://pangrampangram.com/blogs/journal/perfectly-justify-type-indesign)
     - [Typography and dyslexia: Fixing justified text in InDesign](https://accessible-digital-documents.com/blog/dyslexia-justified-text-indesign/)
 
-### Justification
+### Full Justification
 
 | Setting                   | Minimum                     | Desired                     | Maximum                     | Notes |
 |---------------------------|-----------------------------|-----------------------------|-----------------------------|-------|
@@ -87,8 +87,6 @@ Begin by doing some research. Find examples broadsheets that match your personal
 | **Hyphenation Zone**       | -                           | 3–5 mm                      | -                           | Adjusts the space allowed before a word can be hyphenated. |
 | **No Break**               | -                           | Applied selectively         | -                           | Common for certain terms or proper nouns (e.g., “New York” or “CEO”). |
 | **Justification Style**    | -                           | Adobe Paragraph Composer    | -                           | Ensures balanced spacing and avoids excessive word spacing or unsightly rivers of white space. |
-
-
 
 
 - [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
@@ -125,6 +123,11 @@ Font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html)
 - Responsive Typography
     - [More Perfect Typography](https://vimeo.com/17079380)
         - Please watch this lecture.
+
+- Online lectures to attend (get a ticket):
+    - Tuesday, March 25: [Squaring the Circle](https://www.eventbrite.com/e/squaring-the-circle-tickets-1269443813619)
+    - Monday, March 31: [Gráfica de la República](https://www.eventbrite.com/e/grafica-de-la-republica-tickets-1269380945579)
+    - Thursday, April 3: [Of Subways & Offsides with Tobias Frere-Jones](https://www.eventbrite.com/e/of-subways-offsides-with-tobias-frere-jones-tickets-1267836636509)
 
 ### Springtime
 
