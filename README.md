@@ -123,7 +123,7 @@ Font licensing](https://helpx.adobe.com/fonts/using/font-licensing.html)
 - Responsive Typography
     - [More Perfect Typography](https://vimeo.com/17079380)
         - Please watch this lecture.
-- Online lectures to attend (get a ticket):
+- Free Online lectures to attend (get a ticket):
     - Tuesday, March 25: [Squaring the Circle](https://www.eventbrite.com/e/squaring-the-circle-tickets-1269443813619)
     - Monday, March 31: [Gráfica de la República](https://www.eventbrite.com/e/grafica-de-la-republica-tickets-1269380945579)
     - Thursday, April 3: [Of Subways & Offsides with Tobias Frere-Jones](https://www.eventbrite.com/e/of-subways-offsides-with-tobias-frere-jones-tickets-1267836636509)
