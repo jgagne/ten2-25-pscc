@@ -15,7 +15,7 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 - Week 9: April 10
 - Week 10: April 17
 - Week 11: April 24
-- Week 12: May 1
+- Week 12: May 1 — **No Class** (Labor/May Day)
 
 ## Week 1
 
