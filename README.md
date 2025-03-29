@@ -13,7 +13,7 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 - [Week 7](#week7): March 27
 - [Week 8](#week-8): April 3
 - Week 9: April 10
-- Week 10: April 17
+- Week 10: April 17 — **No Class** (Rector’s holiday)
 - Week 11: April 24
 - Week 12: May 1 — **No Class** (Labor/May Day)
 - Week 13: May 8 — **No Class** (Victory Day)
