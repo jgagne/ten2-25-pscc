@@ -16,6 +16,7 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 - Week 10: April 17
 - Week 11: April 24
 - Week 12: May 1 — **No Class** (Labor/May Day)
+- Week 13: May 8 — **No Class** (Victory Day)
 
 ## Week 1
 
@@ -76,17 +77,17 @@ Begin by doing some research. Find examples broadsheets that match your personal
 
 ### Full Justification
 
-| Setting                   | Minimum                     | Desired                     | Maximum                     | Notes |
-|---------------------------|-----------------------------|-----------------------------|-----------------------------|-------|
-| **Word Spacing**           | 80%                         | 100%                        | 120%                        | Adjusts word spacing to ensure a visually consistent flow. |
-| **Letter Spacing**         | 90%                         | 100%                        | 110%                        | Fine-tunes the spacing between letters to prevent stretching or squishing. |
-| **Glyph Scaling**          | 98%                         | 100%                        | 102%                        | Slight adjustments to character width help prevent awkward gaps or overcrowding in justified text. |
-| **Composer**               | -                           | Adobe Paragraph Composer    | -                           | The Paragraph Composer generally provides more balanced and natural spacing compared to the Single-line Composer. |
-| **Left/Right Justification**| -                           | Align Text to Justify       | -                           | Ensures that the text aligns evenly to both the left and right margins. |
-| **Hyphenation**            | -                           | Enabled (with minor tweaks) | -                           | Allow hyphenation, but adjust to ensure it's not too aggressive (e.g., set **Words with 7 or fewer letters** to 0). |
-| **Hyphenation Zone**       | -                           | 3–5 mm                      | -                           | Adjusts the space allowed before a word can be hyphenated. |
-| **No Break**               | -                           | Applied selectively         | -                           | Common for certain terms or proper nouns (e.g., “New York” or “CEO”). |
-| **Justification Style**    | -                           | Adobe Paragraph Composer    | -                           | Ensures balanced spacing and avoids excessive word spacing or unsightly rivers of white space. |
+| Setting                      | Minimum | Desired                     | Maximum | Notes                                                                                                               |
+|------------------------------|---------|-----------------------------|---------|---------------------------------------------------------------------------------------------------------------------|
+| **Word Spacing**             | 80%     | 100%                        | 120%    | Adjusts word spacing to ensure a visually consistent flow.                                                          |
+| **Letter Spacing**           | 90%     | 100%                        | 110%    | Fine-tunes the spacing between letters to prevent stretching or squishing.                                          |
+| **Glyph Scaling**            | 98%     | 100%                        | 102%    | Slight adjustments to character width help prevent awkward gaps or overcrowding in justified text.                  |
+| **Composer**                 | -       | Adobe Paragraph Composer    | -       | The Paragraph Composer generally provides more balanced and natural spacing compared to the Single-line Composer.   |
+| **Left/Right Justification** | -       | Align Text to Justify       | -       | Ensures that the text aligns evenly to both the left and right margins.                                             |
+| **Hyphenation**              | -       | Enabled (with minor tweaks) | -       | Allow hyphenation, but adjust to ensure it's not too aggressive (e.g., set **Words with 7 or fewer letters** to 0). |
+| **Hyphenation Zone**         | -       | 3–5 mm                    | -       | Adjusts the space allowed before a word can be hyphenated.                                                          |
+| **No Break**                 | -       | Applied selectively         | -       | Common for certain terms or proper nouns (e.g., “New York” or “CEO”).                                       |
+| **Justification Style**      | -       | Adobe Paragraph Composer    | -       | Ensures balanced spacing and avoids excessive word spacing or unsightly rivers of white space.                      |
 
 
 - [Readability: The Optimal Line Length](https://baymard.com/blog/line-length-readability)
@@ -146,18 +147,25 @@ Maybe something more positive, like the change in weather, flowers in bloom, spr
 - Responsive Design
     - [CSS Multiple-column layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Multiple-column_Layout)
     - [Revisiting CSS Multi-Column Layout ](https://css-tricks.com/revisiting-css-multi-column-layout/)
+    - [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Grids)
+        - [Grid by Example](https://gridbyexample.com/examples/)
 - Web Typography Basics
     - [CSS text styling](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Text_styling)
     - [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-weight)
     - [Using web fonts](https://fonts.google.com/knowledge/using_type/using_web_fonts)
-    - [CSS API update](https://developers.google.com/fonts/docs/css2)
+    - [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
 - [Design & Code Better Web Typography](https://betterwebtype.com) — A free web typography course for designers and web developers by Matej Latin.
+
+### Week 8
+
+- [Type@Cooper videos](https://vimeo.com/coopertype)
+- [Type Culture video resources](https://www.typeculture.com/academic-resource/videos/)
 
 ## Tools
 
 ### Text Editors
 
-- [Zed](https://zed.dev/)
+- [Zed](https://zed.dev)
 
 ### Type Scale
 
