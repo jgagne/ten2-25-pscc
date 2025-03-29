@@ -156,10 +156,37 @@ Maybe something more positive, like the change in weather, flowers in bloom, spr
     - [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
 - [Design & Code Better Web Typography](https://betterwebtype.com) — A free web typography course for designers and web developers by Matej Latin.
 
-### Week 8
+## Week 8
+
+### In Class
+
+Transcribe fixed print designs to responsive web designs.
+
+### Resources
 
 - [Type@Cooper videos](https://vimeo.com/coopertype)
 - [Type Culture video resources](https://www.typeculture.com/academic-resource/videos/)
+
+### Tangential
+
+> The average hourly pay for a **junior graphic designer** in Prague is **350.00 Kč** based on data for early-career professionals (1-4 years of experience)<sup>[1]</sup>. However, this figure represents **total compensation** (including tips, bonuses, and overtime), not strictly base hourly pay. The base hourly rate for graphic designers in the Czech Republic is listed as **230.00 Kč**<sup>[1]</sup>, though this appears to be a general average rather than specifically tailored to junior roles or agency positions.
+>
+> For context, junior roles at agencies often align with entry-level pay scales, which may fall closer to the lower end of the compensation spectrum. The search results do not provide explicit hourly rates for junior designers at agencies, but the total compensation figure of **350.00 Kč** for early-career professionals offers the most relevant benchmark<sup>[1]</sup>.
+>
+> **Key factors influencing pay**:
+> - **Experience**: Junior roles typically correspond to the 1–4 year range<sup>[1]</sup>.
+> - **Employer type**: Agencies may offer competitive rates compared to in-house roles<sup>[1]</sup>.
+> - **Additional compensation**: Bonuses or overtime can elevate total earnings beyond base pay<sup>[1]</sup>.
+>
+> For precise agency-specific rates, direct negotiation or localized job postings would provide more tailored insights.
+>
+> Citations:
+>
+> [1] https://www.payscale.com/research/CZ/Job=Graphic_Designer/Salary
+>
+> ---
+>
+> Answer from Perplexity: pplx.ai/share
 
 ## Tools
 
