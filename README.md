@@ -8,7 +8,7 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 - [Week 2](#week-2): February 20
 - [Week 3](#week-3): February 27
 - [Week 4](#week-4): March 6
-- [Week 5](#week-5): March 12 — **Class Cancellation**
+- [Week 5](#week-5): March 13 — **Class Cancellation**
 - [Week 6](#week-6): March 20 (Mid Semester)
 - [Week 7](#week7): March 27
 - [Week 8](#week-8): April 3
