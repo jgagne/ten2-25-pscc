@@ -162,6 +162,11 @@ Maybe something more positive, like the change in weather, flowers in bloom, spr
 
 Transcribe fixed print designs to responsive web designs.
 
+### Responsive Typography
+
+- [Flexible and Accessible Typesetting](https://thegymnasium.com/courses/take5/flexible-and-accessible-typesetting/)
+- [Responsively Designing with Viewport Units](https://thegymnasium.com/courses/take5/responsively-designing-with-viewport-units/)
+
 ### Resources
 
 - [Type@Cooper videos](https://vimeo.com/coopertype)
