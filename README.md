@@ -213,8 +213,8 @@ Create a web-type version of your first assignment, My Name Is… specimen, conv
 
 Create a simplified responsive design version of your broadsheet or poster project using CSS Multi-Column and Grid Layout (not Flexbox [Flexible Box], please) or a combination of both. If layout is an issue, focus instead on responsive typesetting only.
 
-See in-class [demo](https://jsbin.com/guyeviw/edit?html,css,output).
-See also [Week 7](#week-7) resources for guidance.
+- See in-class [demo](https://jsbin.com/guyeviw/edit?html,css,output).
+- See also [Week 7](#week-7) resources for guidance.
 
 ## Tools
 
