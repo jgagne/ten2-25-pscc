@@ -12,11 +12,12 @@ Instructor, designer: [Justin Gagne](https://justingagne.design)
 - [Week 6](#week-6): March 20 (Mid Semester)
 - [Week 7](#week7): March 27
 - [Week 8](#week-8): April 3
-- Week 9: April 10
+- [Week 9](#week-9): April 10
 - Week 10: April 17 — **No Class** (Rector’s holiday)
-- Week 11: April 24
+- Week 11: April 24 — Guest lecture on type design
 - Week 12: May 1 — **No Class** (Labor/May Day)
 - Week 13: May 8 — **No Class** (Victory Day)
+- Week 14: May 15
 
 ## Week 1
 
@@ -192,6 +193,28 @@ Transcribe fixed print designs to responsive web designs.
 > ---
 >
 > Answer from Perplexity: pplx.ai/share
+
+## Week 9
+
+- [Responsive images](https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images)
+- [Color Codes](https://htmlcolorcodes.com)
+- [Colorable](https://colorable.jxnblk.com) — Test color contrast (web-based)
+
+### Homework
+
+#### My Name Is…
+
+Create a web-type version of your first assignment, My Name Is… specimen, converting your drawn type specimens to web fonts (via Google Fonts) and using the [CSS locks]() technique for responsive web typography.
+
+- Add an image (PNG) of your original My Name Is… specimen sketch (process)
+- Add a [colophon](https://themillions.com/2015/03/praise-the-colophon-twenty-notes-on-type.html) with typeface information, design notes, and something about the designer.
+
+#### Broadsheet or Poster (Springtime)
+
+Create a simplified responsive design version of your broadsheet or poster project using CSS Multi-Column and Grid Layout (not Flexbox [Flexible Box], please) or a combination of both. If layout is an issue, focus instead on responsive typesetting only.
+
+See in-class [demo](https://jsbin.com/guyeviw/edit?html,css,output).
+See also [Week 7](#week-7) resources for guidance.
 
 ## Tools
 
