@@ -209,7 +209,7 @@ Transcribe fixed print designs to responsive web designs.
 
 #### My Name Is…
 
-Create a responsive design version of your first assignment, My Name Is… specimen, converting your drawn type specimens to web fonts (via Google Fonts) and using the [CSS locks]() technique for responsive web typography.
+Create a responsive design version of your first assignment, My Name Is… specimen, converting your drawn type specimens to web fonts (via Google Fonts) and using the [CSS locks](https://blog.typekit.com/2016/08/17/flexible-typography-with-css-locks/) technique for responsive web typography.
 
 - Add an image (PNG) of your original My Name Is… specimen sketch (process)
 - Add a [colophon](https://themillions.com/2015/03/praise-the-colophon-twenty-notes-on-type.html) with typeface information, design notes, and something about the designer.
