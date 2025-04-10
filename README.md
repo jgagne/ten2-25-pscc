@@ -201,6 +201,7 @@ Transcribe fixed print designs to responsive web designs.
 ## Week 9
 
 - [Responsive images](https://developer.mozilla.org/en-US/docs/Web/HTML/Responsive_images)
+- [Resizing background images with background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Resizing_background_images)
 - [Color Codes](https://htmlcolorcodes.com)
 - [Colorable](https://colorable.jxnblk.com) — Test color contrast (web-based)
 
@@ -208,7 +209,7 @@ Transcribe fixed print designs to responsive web designs.
 
 #### My Name Is…
 
-Create a web-type version of your first assignment, My Name Is… specimen, converting your drawn type specimens to web fonts (via Google Fonts) and using the [CSS locks]() technique for responsive web typography.
+Create a responsive design version of your first assignment, My Name Is… specimen, converting your drawn type specimens to web fonts (via Google Fonts) and using the [CSS locks]() technique for responsive web typography.
 
 - Add an image (PNG) of your original My Name Is… specimen sketch (process)
 - Add a [colophon](https://themillions.com/2015/03/praise-the-colophon-twenty-notes-on-type.html) with typeface information, design notes, and something about the designer.
@@ -217,7 +218,7 @@ Create a web-type version of your first assignment, My Name Is… specimen, conv
 
 Create a simplified responsive design version of your broadsheet or poster project using CSS Multi-Column and Grid Layout (not Flexbox [Flexible Box], please) or a combination of both. If layout is an issue, focus instead on responsive typesetting only.
 
-- See in-class [demo](https://jsbin.com/guyeviw/edit?html,css,output).
+- See in-class [demo](https://jsbin.com/wopodiw/edit?html,css,output).
 - See also [Week 7](#week-7) resources for guidance.
 
 ### Tangential
