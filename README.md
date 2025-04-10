@@ -175,6 +175,10 @@ Transcribe fixed print designs to responsive web designs.
 
 ### Tangential
 
+- 9–14 EUR per hour in Prague.
+- 12 EUR per hour on average.
+- Ask for at least 14 EUR per hour.
+
 > The average hourly pay for a **junior graphic designer** in Prague is **350.00 Kč** based on data for early-career professionals (1-4 years of experience)<sup>[1]</sup>. However, this figure represents **total compensation** (including tips, bonuses, and overtime), not strictly base hourly pay. The base hourly rate for graphic designers in the Czech Republic is listed as **230.00 Kč**<sup>[1]</sup>, though this appears to be a general average rather than specifically tailored to junior roles or agency positions.
 >
 > For context, junior roles at agencies often align with entry-level pay scales, which may fall closer to the lower end of the compensation spectrum. The search results do not provide explicit hourly rates for junior designers at agencies, but the total compensation figure of **350.00 Kč** for early-career professionals offers the most relevant benchmark<sup>[1]</sup>.
@@ -215,6 +219,10 @@ Create a simplified responsive design version of your broadsheet or poster proje
 
 - See in-class [demo](https://jsbin.com/guyeviw/edit?html,css,output).
 - See also [Week 7](#week-7) resources for guidance.
+
+### Tangential
+
+- [How to Use “Editorial Use Only” Images](https://www.shutterstock.com/blog/how-to-use-editorial-use-only-images)
 
 ## Tools
 
