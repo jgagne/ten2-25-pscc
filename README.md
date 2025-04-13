@@ -229,6 +229,7 @@ Create a simplified responsive design version of your broadsheet or poster proje
 
 ### Text Editors
 
+- [Sublime Text](https://www.sublimetext.com)
 - [Zed](https://zed.dev)
 
 ### Type Scale
